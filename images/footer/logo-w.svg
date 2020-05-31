@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248.001" height="65.121" viewBox="0 0 248.001 65.121">
+  <g id="Group_8714" data-name="Group 8714" transform="translate(-139.999 -10083)">
+    <g id="Group_8712" data-name="Group 8712" transform="translate(0 3)">
+      <g id="Group_8711" data-name="Group 8711">
+        <path id="Path_22233" data-name="Path 22233" d="M77.03,19.249H51.276a5.268,5.268,0,0,0-4.562,2.634l-12.877,22.3a5.268,5.268,0,0,0,0,5.267l12.877,22.3a5.267,5.267,0,0,0,4.562,2.634H77.03a5.267,5.267,0,0,0,4.562-2.634l12.877-22.3a5.268,5.268,0,0,0,0-5.267l-12.877-22.3A5.268,5.268,0,0,0,77.03,19.249Z" transform="translate(106.867 10065.751)"/>
+        <path id="Path_22234" data-name="Path 22234" d="M78.814,21.4H54.3a5.267,5.267,0,0,0-4.562,2.634L37.477,45.267a5.268,5.268,0,0,0,0,5.267L49.736,71.767A5.268,5.268,0,0,0,54.3,74.4H78.814a5.267,5.267,0,0,0,4.562-2.634L95.635,50.534a5.268,5.268,0,0,0,0-5.267L83.376,24.035A5.267,5.267,0,0,0,78.814,21.4Z" transform="translate(104.728 10065.099)" fill="none" stroke="#00ffe0" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <g id="Group_8061" data-name="Group 8061" transform="translate(156 10096)">
+        <g id="Group_8055" data-name="Group 8055" transform="translate(0 0.68)" opacity="0.25" style="mix-blend-mode: multiply;isolation: isolate">
+          <path id="Path_22235" data-name="Path 22235" d="M153.977,85.858h4.588V52.917h-4.588" transform="translate(-129.307 -52.917)"/>
+          <path id="Path_22236" data-name="Path 22236" d="M117.2,97.738v3.727H105.437a2.6,2.6,0,0,0-1.195.254,2.426,2.426,0,0,0-.8.637,2.625,2.625,0,0,0-.445.829,2.722,2.722,0,0,0-.143.827v11.436H98.27v-12.3a5.382,5.382,0,0,1,.382-1.991,5.175,5.175,0,0,1,1.13-1.735A5.585,5.585,0,0,1,101.63,98.2a6.5,6.5,0,0,1,2.533-.461Z" transform="translate(-92.529 -82.508)"/>
+          <path id="Path_22237" data-name="Path 22237" d="M86.6,63.269a10.769,10.769,0,0,1,.056-1.131,6.065,6.065,0,0,1,.534-2.023,4.842,4.842,0,0,1,1.5-1.862,5.158,5.158,0,0,1,2.039-.876,11.624,11.624,0,0,1,2.246-.223H105.5V52.917H91.951a12.657,12.657,0,0,0-5.065.892,8.2,8.2,0,0,0-3.264,2.469,9.565,9.565,0,0,0-1.737,3.759c-.038.162-.073.326-.107.492a21.565,21.565,0,0,0-.4,4.3V85.858H86.6V67.346" transform="translate(-81.375 -52.917)"/>
+          <rect id="Rectangle_2276" data-name="Rectangle 2276" width="10.304" height="4.077" transform="translate(5.163 9.769)"/>
+        </g>
+        <g id="Group_8060" data-name="Group 8060">
+          <g id="Group_8059" data-name="Group 8059">
+            <g id="Group_8057" data-name="Group 8057" transform="translate(5.741)">
+              <g id="Group_8056" data-name="Group 8056">
+                <path id="Path_22238" data-name="Path 22238" d="M153.977,83.858h4.588V50.917h-4.588" transform="translate(-135.048 -50.917)" fill="#fff"/>
+                <path id="Path_22239" data-name="Path 22239" d="M117.2,95.738v3.727H105.437a2.6,2.6,0,0,0-1.195.254,2.426,2.426,0,0,0-.8.637,2.625,2.625,0,0,0-.445.829,2.722,2.722,0,0,0-.143.827v11.436H98.27v-12.3a5.382,5.382,0,0,1,.382-1.991,5.175,5.175,0,0,1,1.13-1.735A5.585,5.585,0,0,1,101.63,96.2a6.5,6.5,0,0,1,2.533-.461Z" transform="translate(-98.27 -80.508)" fill="#fff"/>
+              </g>
+            </g>
+            <g id="Group_8058" data-name="Group 8058">
+              <path id="Path_22240" data-name="Path 22240" d="M86.6,61.269a10.769,10.769,0,0,1,.056-1.13,6.065,6.065,0,0,1,.534-2.023,4.842,4.842,0,0,1,1.5-1.862,5.158,5.158,0,0,1,2.039-.876,11.623,11.623,0,0,1,2.246-.223H105.5V50.917H91.951a12.657,12.657,0,0,0-5.065.892,8.2,8.2,0,0,0-3.264,2.469,9.565,9.565,0,0,0-1.737,3.759c-.038.162-.073.326-.107.492a21.565,21.565,0,0,0-.4,4.3V83.858H86.6V65.346" transform="translate(-81.375 -50.917)" fill="#00ffe0"/>
+              <rect id="Rectangle_2277" data-name="Rectangle 2277" width="10.304" height="4.077" transform="translate(5.163 9.769)" fill="#00ffe0"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_8713" data-name="Group 8713">
+      <text id="FINHOOD" transform="translate(207 10124)" fill="#00e2d4" font-size="37" font-family="HighlandGothicFLF"><tspan x="0" y="0">FIN</tspan><tspan y="0" fill="#fff">HOOD</tspan></text>
+      <text id="Covers_your_finances" data-name="Covers your finances" transform="translate(213 10142.121)" fill="#fff" font-size="16" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">Covers your finances</tspan></text>
+    </g>
+  </g>
+</svg>
