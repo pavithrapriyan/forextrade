@@ -2591,3 +2591,21 @@ section.domain-search-result .pricing_table tbody tr.disabled {
     padding-bottom: 50px;
     top: -20px;
 }
+.displayflex{
+    display: flex;
+    align-items: center;
+}
+.addtopmargin {
+    display: flex;
+    float: none;
+}
+.nav-stacked>li.sticker {
+    visibility: visible;
+    opacity: 1;
+    height: 100%;
+}
+.nav-stacked>li.addactive {
+    visibility: hidden;
+    height: 0;
+    opacity: 0;
+}

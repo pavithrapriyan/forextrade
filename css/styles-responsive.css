@@ -594,4 +594,7 @@
     .price-table.adding-shadow{
         top: 0;
     }
+    .displayflex {
+        display: block;
+    }
 }

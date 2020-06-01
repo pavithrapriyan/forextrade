@@ -50,7 +50,7 @@ $(document).ready(function() {
         infinite: true,
         speed: 300,
         autoplay: true,
-        autoplaySpeed: 10000,
+        autoplaySpeed: 6000,
         slidesToShow: 1,
         responsive: [{
                 breakpoint: 768,
@@ -228,3 +228,14 @@ $('#googleMap').gMap({
         maptype: 'ROADMAP'
     }]
 });
+
+
+$(window).scroll(function (event) {
+    var scroll = $(window).scrollTop();
+    $('.sticker').toggleClass('addactive',
+     //add 'ok' class when div position match or exceeds else remove the 'ok' class.
+      scroll >= $('#step-2').offset().top
+    );
+});
+//trigger the scroll
+$(window).scroll();//ensure if you're in current position when page is refreshed
